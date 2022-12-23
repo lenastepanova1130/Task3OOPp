@@ -1,0 +1,88 @@
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.exe.config
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.exe
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_Content.g.cs
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.g.resources
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.exe
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.pdb
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\LoginPage.g.cs
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\LoginPage.baml
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\RePage.g.cs
+C:\Users\Пользователь\Desktop\Maxim Tarasow 4-C-1\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\RePage.baml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.exe.config
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.exe
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Task3OOPp.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\ControlzEx.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MahApps.Metro.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\LoginPage.g.cs
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\RePage.g.cs
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_Content.g.cs
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\MainWindow.baml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\LoginPage.baml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\View\Pages\RePage.baml
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.g.resources
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.exe
+C:\Users\Пользователь\Desktop\ghjhh\Task3OOPp\Task3OOPp\obj\Debug\Task3OOPp.pdb
